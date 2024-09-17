@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cauaziny
-- 👀 I’m interested in discord bots javascript .lua and MTA(Multi Theft Auto) Scripts/Mods
+- 👀 I’m interested .lua .html .css .js .py
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everything
 
